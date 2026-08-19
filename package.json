@@ -1,6 +1,7 @@
 {
   "name": "reelforge",
   "version": "0.1.0",
+  "license": "MIT",
   "description": "Autonomous reel creator for instxnt.xyz — Claude scripts + your videos + auto-publish to IG/FB/TikTok",
   "main": "dist-electron/index.js",
   "type": "module",
